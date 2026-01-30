@@ -101,7 +101,7 @@ function AdminDashboard({ setCurrentPage }) {
           <div className="flex items-center justify-between mb-6">
             <h3 className="text-lg font-bold text-gray-900 dark:text-white flex items-center gap-2">
               <Settings className="w-5 h-5 text-indigo-500" />
-              Executive Controls
+              Executive Control
             </h3>
           </div>
           
