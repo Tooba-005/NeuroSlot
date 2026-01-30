@@ -10,7 +10,7 @@ function UserDashboard({ setCurrentPage }) {
       id: 'request-parking',
       title: 'Request Parking',
       subtitle: 'Zone A, B, or C',
-      description: 'Submit a new vehicle request to the queue.',
+      description: 'Submit a new vehicle request to queue.',
       icon: Car,
       gradient: 'from-blue-500 to-blue-600',
       accent: 'text-blue-500',
