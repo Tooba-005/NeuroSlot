@@ -29,3 +29,4 @@ To get a local copy of the project up and running, follow these steps:
 1. **Clone the Repository**
    ```bash
    git clone [https://github.com/Tooba-005/NeuroSlot.git](https://github.com/Tooba-005/NeuroSlot.git)
+2. Visit: https://neuro-slot.vercel.app/
