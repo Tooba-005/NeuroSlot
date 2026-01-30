@@ -1,14 +1,6 @@
 # 🧠 NEUROSLOT | Smart Parking Allocation System
 
-![Version](https://img.shields.io/badge/Version-2.0.0-indigo)
-![License](https://img.shields.io/badge/License-MIT-emerald)
-![Build](https://img.shields.io/badge/Build-Passing-blue)
-
 **NEUROSLOT** is a high-performance parking management system designed to optimize spatial allocation using advanced data structures and algorithms. It transforms chaotic parking into a streamlined "Neural Network" of slots.
-
-
-
----
 
 ## 🚀 Core Features
 
